@@ -2,7 +2,7 @@
 
 TOR Network De-Anonymization & Traffic Correlation Platform
 
-Access it [here](https://shadowtraceai-2.onrender.com/)
+**Access it [here](https://shadowtraceai-2.onrender.com/).**
 
 ShadowTrace AI is an advanced forensic and analytical platform designed to trace TOR network activity by correlating exit-node traffic, relay metadata, and network flow patterns to estimate the most likely TOR entry (guard) nodes behind anonymous traffic.
 
